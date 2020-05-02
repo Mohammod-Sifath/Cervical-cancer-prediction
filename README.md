@@ -1,2 +1,2 @@
-# beginnerproject
+# projects
 Long way to go 
