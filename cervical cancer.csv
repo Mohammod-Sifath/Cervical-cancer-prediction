@@ -1,0 +1,522 @@
+Age,Menopose,Oral Contraception,Diat Maintain,Use Napkin,Social Class,Takes Hormone After Menopose,Menopose after 50?,Affected By Breast Cancer,Affected By cervical Cancer?,Cancer History In family?,Education,Age of Husband,Menopose End age?,Food contains high fat?,Any Birth Control Pill?,Abortion?,Cancer Vaccin Taken?,First sex age?
+40-62,normal,yes,no,no,rich,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,yes,no,no,above 16
+63 or more,early,yes,yes,yes,rich,yes,yes,yes,yes,yes,graduated,below 30,after 52,yes,yes,yes,yes,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,no,yes,yes,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,graduated,46-60,40-51,no,no,yes,no,below 16
+40-62,late,no,yes,yes,middle,yes,yes,yes,yes,yes,primary level,46-60,after 52,yes,yes,yes,no,below 16
+40-62,early,yes,yes,no,middle,yes,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,yes,no,below 16
+40-62,late,yes,yes,yes,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,yes,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,no,primary level,46-60,after 52,no,no,yes,no,above 16
+63 or more,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,above 60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,below 30,after 52,no,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,primary level,31-45,40-51,yes,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,primary level,31-45,40-51,yes,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,primary level,31-45,40-51,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,normal,yes,yes,yes,middle,yes,yes,yes,yes,no,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,no,yes,no,no,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,yes,yes,yes,poor,yes,yes,yes,yes,no,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,yes,no,no,poor,yes,yes,yes,yes,no,primary level,46-60,after 52,no,no,no,no,above 16
+40-62,early,yes,yes,no,poor,no,yes,yes,yes,no,primary level,46-60,after 52,yes,yes,no,no,below 16
+40-62,early,no,no,yes,poor,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,no,no,below 16
+40-62,early,no,no,no,poor,no,no,yes,yes,yes,primary level,above 60,after 52,no,no,no,no,below 16
+40-62,late,yes,yes,yes,middle,no,yes,yes,yes,yes,graduated,46-60,after 52,yes,yes,no,no,below 16
+40-62,early,no,no,yes,poor,no,yes,yes,no,yes,illitarate,46-60,after 52,no,no,no,yes,below 16
+40-62,late,no,no,yes,middle,no,yes,no,no,no,primary level,46-60,after 52,yes,yes,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,no,no,yes,graduated,below 30,after 52,no,no,no,no,above 16
+40-62,late,yes,yes,no,poor,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,yes,no,no,below 16
+40-62,late,no,yes,no,poor,no,yes,yes,no,no,illitarate,46-60,after 52,no,no,yes,no,below 16
+63 or more,early,yes,yes,no,poor,yes,yes,yes,yes,yes,primary level,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,yes,no,rich,no,no,yes,yes,no,illitarate,46-60,after 52,no,yes,no,no,above 16
+40-62,late,yes,yes,yes,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,yes,yes,yes,no,above 16
+40-62,late,no,no,no,poor,no,no,no,no,no,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,no,no,illitarate,46-60,after 52,yes,yes,no,no,below 16
+40-62,late,no,no,no,middle,yes,no,no,no,yes,primary level,below 30,after 52,yes,no,no,no,above 16
+40-62,late,no,yes,no,poor,no,yes,yes,no,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,yes,yes,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,no,illitarate,below 30,40-51,no,yes,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,no,no,below 16
+40-62,late,no,no,no,poor,yes,yes,no,yes,yes,illitarate,46-60,40-51,yes,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,no,primary level,46-60,40-51,yes,no,no,no,below 16
+63 or more,early,no,no,yes,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,no,primary level,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,yes,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,primary level,46-60,40-51,no,no,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,no,no,no,illitarate,46-60,40-51,no,no,no,yes,below 16
+40-62,late,no,no,no,poor,no,yes,no,yes,no,illitarate,46-60,before 40,no,yes,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,no,no,illitarate,46-60,after 52,no,yes,yes,yes,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,no,no,below 16
+40-62,late,yes,yes,no,poor,no,no,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,no,primary level,46-60,40-51,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,no,yes,no,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,no,yes,no,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,no,no,no,no,illitarate,below 30,after 52,yes,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,no,no,no,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,yes,poor,no,yes,yes,yes,yes,graduated,below 30,after 52,no,no,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,no,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,no,no,no,graduated,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+63 or more,early,yes,yes,yes,rich,yes,yes,yes,yes,yes,graduated,below 30,after 52,yes,yes,yes,yes,below 16
+40-62,late,no,no,no,poor,no,yes,no,yes,no,illitarate,below 30,40-51,no,no,no,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,no,no,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,no,no,no,primary level,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,no,no,yes,illitarate,46-60,after 52,no,yes,no,yes,above 16
+40-62,late,no,no,no,middle,no,no,yes,yes,yes,primary level,above 60,40-51,yes,yes,no,no,above 16
+40-62,early,yes,no,no,middle,no,yes,yes,yes,no,primary level,46-60,40-51,yes,no,no,no,below 16
+40-62,early,no,yes,no,poor,no,yes,no,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,early,yes,no,no,poor,yes,no,yes,yes,yes,primary level,46-60,before 40,no,no,no,no,above 16
+40-62,early,no,no,no,middle,yes,yes,yes,no,yes,illitarate,below 30,after 52,no,no,yes,no,above 16
+40-62,late,yes,no,no,poor,no,yes,yes,no,no,primary level,46-60,after 52,yes,no,no,no,above 16
+63 or more,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,yes,no,above 16
+63 or more,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,yes,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,primary level,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,no,yes,no,illitarate,46-60,before 40,no,yes,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,graduated,below 30,40-51,no,no,no,yes,above 16
+40-62,late,no,no,no,middle,no,no,yes,yes,yes,illitarate,46-60,before 40,no,yes,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,no,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,no,no,no,middle,yes,yes,yes,yes,no,primary level,46-60,after 52,yes,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,no,yes,no,illitarate,46-60,40-51,no,no,no,yes,below 16
+40-62,early,no,no,no,middle,no,yes,no,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,no,no,above 16
+63 or more,late,no,no,no,middle,no,yes,yes,yes,no,primary level,46-60,after 52,no,yes,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,no,yes,yes,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,yes,above 16
+40-62,late,no,no,no,middle,no,no,no,yes,yes,primary level,46-60,40-51,yes,yes,no,no,above 16
+40-62,late,no,no,yes,poor,no,no,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,no,yes,illitarate,46-60,before 40,no,no,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,yes,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,no,yes,no,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,no,primary level,above 60,40-51,no,no,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,yes,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,graduated,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,yes,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,yes,no,no,above 16
+63 or more,late,no,no,no,middle,no,yes,yes,yes,no,primary level,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,above 60,40-51,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,yes,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,yes,above 16
+40-62,late,no,no,no,poor,no,no,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,no,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,no,yes,illitarate,46-60,after 52,yes,no,no,no,above 16
+40-62,early,no,no,no,poor,no,no,no,no,no,primary level,46-60,after 52,no,yes,no,no,above 16
+40-62,late,no,no,yes,poor,no,yes,no,yes,yes,primary level,46-60,40-51,no,yes,yes,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,no,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,early,no,no,no,rich,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,no,yes,no,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,no,yes,illitarate,46-60,before 40,no,yes,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,no,yes,yes,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,no,yes,yes,illitarate,46-60,before 40,no,no,no,yes,below 16
+40-62,late,no,no,no,poor,no,yes,no,no,yes,illitarate,46-60,before 40,no,no,no,yes,above 16
+40-62,late,no,no,no,poor,no,yes,no,yes,no,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,no,no,no,poor,no,no,yes,no,yes,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,no,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,yes,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,no,yes,yes,primary level,46-60,after 52,no,yes,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,no,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,early,no,no,yes,rich,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,no,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,late,no,no,no,rich,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,no,yes,yes,yes,primary level,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,no,yes,yes,yes,primary level,46-60,before 40,no,no,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,no,no,no,yes,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,no,yes,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,no,yes,below 16
+40-62,early,no,no,yes,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,no,yes,yes,illitarate,46-60,after 52,no,yes,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,no,yes,yes,graduated,above 60,before 40,no,yes,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,no,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,31-45,after 52,no,no,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,no,yes,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,above 60,after 52,no,yes,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,yes,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,above 60,after 52,no,yes,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,yes,no,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,yes,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,no,no,yes,yes,primary level,46-60,after 52,no,yes,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,above 60,after 52,no,yes,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,no,yes,yes,illitarate,46-60,after 52,no,yes,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,yes,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,yes,no,poor,no,yes,yes,yes,no,primary level,above 60,before 40,no,yes,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,primary level,46-60,after 52,no,no,no,yes,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,no,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,no,no,below 16
+40-62,late,no,no,no,middle,no,no,no,yes,yes,primary level,above 60,before 40,no,no,no,no,above 16
+40-62,late,no,no,no,middle,no,no,no,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,yes,no,poor,yes,yes,no,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,early,no,no,no,middle,no,yes,no,yes,yes,illitarate,46-60,40-51,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,no,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,yes,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,yes,no,above 16
+40-62,late,no,no,no,middle,no,no,no,yes,yes,primary level,46-60,after 52,no,yes,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,yes,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,yes,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,no,yes,yes,illitarate,46-60,after 52,no,no,no,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,yes,no,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,before 40,yes,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,above 60,before 40,yes,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,yes,no,above 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,31-45,before 40,no,no,yes,no,above 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,early,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,above 60,before 40,yes,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,above 60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,rich,no,yes,yes,yes,yes,primary level,46-60,before 40,yes,no,yes,no,below 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,primary level,above 60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,below 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+63 or more,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,no,yes,yes,yes,primary level,46-60,before 40,no,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,yes,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,yes,no,yes,no,above 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+63 or more,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,no,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,yes,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+63 or more,early,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,yes,no,no,middle,no,yes,yes,yes,no,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,no,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,above 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,graduated,46-60,before 40,no,no,yes,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,no,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,no,no,below 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,40-51,no,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,yes,no,above 16
+63 or more,early,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,40-51,no,no,yes,no,below 16
+40-62,early,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+63 or more,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,above 16
+63 or more,early,yes,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,yes,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,no,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+63 or more,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,below 16
+63 or more,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,above 60,after 52,no,no,yes,no,below 16
+63 or more,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,early,yes,no,no,poor,no,yes,yes,yes,no,primary level,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+63 or more,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,early,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,above 60,before 40,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,primary level,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+63 or more,early,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,above 16
+63 or more,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,after 52,no,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+63 or more,early,yes,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+63 or more,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,below 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,40-51,yes,no,yes,no,above 16
+40-62,early,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,yes,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,after 52,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+63 or more,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+63 or more,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,above 60,before 40,yes,no,yes,no,below 16
+40-62,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,yes,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,primary level,46-60,before 40,no,no,yes,no,above 16
+63 or more,late,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,above 16
+40-62,late,no,no,no,middle,no,yes,yes,yes,yes,illitarate,46-60,before 40,no,no,yes,no,below 16
+40-62,early,no,no,no,poor,no,yes,yes,yes,yes,illitarate,46-60,after 52,yes,no,yes,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,below 30,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,yes,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,yes,no,no,no,graduated,46-60,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,yes,primary level,31-45,before 40,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,yes,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,rich,yes,yes,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,yes,primary level,46-60,40-51,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,yes,no,below 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,rich,yes,no,no,no,no,graduated,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,rich,yes,yes,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,graduated,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,yes,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,illitarate,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,poor,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,above 60,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,poor,no,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,poor,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,no,no,no,no,yes,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,illitarate,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,rich,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,illitarate,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+below 40,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,31-45,before 40,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,above 16
+40-62,normal,no,yes,yes,middle,yes,no,no,no,no,primary level,46-60,40-51,no,yes,no,no,below 16
